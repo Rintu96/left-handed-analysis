@@ -22,8 +22,5 @@ This project analyzes whether left-handed individuals have a shorter lifespan us
 ## 🔥 Conclusion
 The apparent lifespan difference is a statistical illusion caused by generational changes in reported handedness.
 
-## 📷 Sample Output
-(Add your graph screenshots here)
-
 ## ▶️ Run the Project
 Open the notebook in Jupyter or Google Colab and run all cells.
